@@ -1,0 +1,7 @@
+#Sun Feb 05 14:19:19 EST 2017
+base.0=/Users/armingrossrieder/AndroidStudioProjects/SmartLots/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d767bd3d2f94275530acec3494f67b15aa8cec3d
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/armingrossrieder/AndroidStudioProjects/SmartLots/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3a07412fe91ea3bcbf3c6274de9cad6e7c6917e9/classes.dex
+base.1=/Users/armingrossrieder/AndroidStudioProjects/SmartLots/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3a07412fe91ea3bcbf3c6274de9cad6e7c6917e9
+file.0=/Users/armingrossrieder/AndroidStudioProjects/SmartLots/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d767bd3d2f94275530acec3494f67b15aa8cec3d/classes.dex

@@ -28,7 +28,6 @@
             android:theme="@style/AppTheme.NoActionBar" />
         <activity android:name=".ListMyLots" />
         <activity android:name=".Search" />
-        <activity android:name=".NearMe" />
 
         <meta-data
             android:name="com.google.android.geo.API_KEY"
@@ -38,10 +37,6 @@
             android:name=".NearMeMap"
             android:label="@string/title_activity_near_me_map" />
         <activity android:name=".ListLots" />
-        <activity android:name=".FEB5NearMe" />
-        <activity
-            android:name=".FEB6NearMe"
-            android:label="@string/title_activity_feb6_near_me"></activity>
     </application>
 
 </manifest>
