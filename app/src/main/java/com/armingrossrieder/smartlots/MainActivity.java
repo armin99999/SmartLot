@@ -49,7 +49,7 @@ public class MainActivity extends AppCompatActivity {
 
     /** Called when the user wants to view lots near him */
     public void setView_near_me(View view) {
-        startActivity(new Intent(MainActivity.this, FEB6NearMe.class));
+        startActivity(new Intent(MainActivity.this, NearMeMap.class));
     }
 
     private class ListLots extends AppCompatActivity{
